@@ -1,1 +1,4 @@
 https://www.graphql-java.com/tutorials/getting-started-with-spring-boot
+
+Graphql Endpoint: http://localhost:8080/graphql
+Connects to MongoDB Acc under: ibz account email
